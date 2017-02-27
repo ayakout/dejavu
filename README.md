@@ -16,7 +16,7 @@ Thus started the journey of dejavu, with a goal of 100% client side rendering an
 
 ```sh
  http.port: 9200
- http.cors.allow-origin: "http://127.0.0.1:9200"
+ http.cors.allow-origin: "http://127.0.0.1:1358"
  http.cors.enabled: true
  http.cors.allow-headers : X-Requested-With,X-Auth-Token,Content-Type,Content-Length,Authorization
  http.cors.allow-credentials: true
